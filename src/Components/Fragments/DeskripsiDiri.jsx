@@ -5,7 +5,7 @@ const DeskripsiDiri=()=>{
             <h1 className="pb-10">Full Stack Developer</h1>
             
             <p className="text-center p-3 sm:p-0">
-            Results-driven Full Stack Developer with 4+ years of experience in designing and deploying
+            Results-driven Full Stack Developer with 5+ years of experience in designing and deploying
 scalable web applications. Proficient in React.js, Node.js, Laravel, and PostgreSQL, delivering
 solutions that optimize performance and user experience. Successfully developed geospatial
 systems, recruitment platforms, and LMS projects, improving workflow efficiency and system
