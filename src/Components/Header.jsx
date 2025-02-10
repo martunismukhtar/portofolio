@@ -92,7 +92,7 @@ const Header = () => {
             <li>
               <a
                 className="text-[#000000] text-xl font-medium relative before:content-[''] after:content-[''] before:absolute after:absolute before:bottom-0 after:bottom-0 before:right-0 after:right-0 before:w-0 after:w-0 before:left-auto after:left-auto before:h-[3px] after:h-[3px] before:bg-[#235aa6] after:bg-[#f25757] before:transition-all after:transition-all before:duration-[250ms] before:delay-[150ms] after:duration-[250ms] before:ease-[cubic-bezier(0.694,0.048,0.335,1)] after:ease-[cubic-bezier(0.694,0.048,0.335,1)] hover:before:w-full hover:after:w-full hover:before:left-0 hover:after:left-0"
-                href="https://twitter.com/RiccardoZanutta"
+                href="#"
                 target="_blank"
                 rel="noopener"
               >
@@ -102,7 +102,7 @@ const Header = () => {
             <li>
               <a
                 className="text-[#000000] text-xl font-medium relative before:content-[''] after:content-[''] before:absolute after:absolute before:bottom-0 after:bottom-0 before:right-0 after:right-0 before:w-0 after:w-0 before:left-auto after:left-auto before:h-[3px] after:h-[3px] before:bg-[#235aa6] after:bg-[#f25757] before:transition-all after:transition-all before:duration-[250ms] before:delay-[150ms] after:duration-[250ms] before:ease-[cubic-bezier(0.694,0.048,0.335,1)] after:ease-[cubic-bezier(0.694,0.048,0.335,1)] hover:before:w-full hover:after:w-full hover:before:left-0 hover:after:left-0"
-                href="https://twitter.com/RiccardoZanutta"
+                href="https://www.linkedin.com/in/martunis-mukhtar-64718297/"
                 target="_blank"
                 rel="noopener"
               >
@@ -112,7 +112,7 @@ const Header = () => {
             <li>
               <a
                 className="text-[#000000] text-xl font-medium relative before:content-[''] after:content-[''] before:absolute after:absolute before:bottom-0 after:bottom-0 before:right-0 after:right-0 before:w-0 after:w-0 before:left-auto after:left-auto before:h-[3px] after:h-[3px] before:bg-[#235aa6] after:bg-[#f25757] before:transition-all after:transition-all before:duration-[250ms] before:delay-[150ms] after:duration-[250ms] before:ease-[cubic-bezier(0.694,0.048,0.335,1)] after:ease-[cubic-bezier(0.694,0.048,0.335,1)] hover:before:w-full hover:after:w-full hover:before:left-0 hover:after:left-0"
-                href="https://twitter.com/RiccardoZanutta"
+                href="https://github.com/martunismukhtar"
                 target="_blank"
                 rel="noopener"
               >
