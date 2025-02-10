@@ -11,9 +11,9 @@ const Header = () => {
   };
   return (
     <div className="w-full">
-      <div className="w-full px-10 py-4 border-b flex justify-end cursor-pointer">
+      <div className="w-full px-10 py-4 border-b flex justify-end">
         <div
-          className="flex flex-col items-center justify-center w-10 h-10  space-y-1 bg-gray-300 hover:bg-gray-300 focus:outline-none"
+          className="flex flex-col items-center justify-center w-10 h-10 cursor-pointer space-y-1 bg-gray-300 hover:bg-gray-300 focus:outline-none"
           onMouseOver={() => setHovered(true)}
           onMouseOut={() => setHovered(false)}
           onClick={() => setOpen(!isopen)}
