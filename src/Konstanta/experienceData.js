@@ -5,7 +5,7 @@ const experiences=[
         link:"https://simatabaru.acehbesarkab.go.id/app/matras/",
         position:"Full Stack Developer",
         description:"Headed the development of a Geospatial Information System (GIS) for monitoring and analyzing land use, utilizing advanced mapping technologies and spatial data analysis tools. The system was designed to automate the process of land use assessment by integrating satellite imagery, geographic data, and real-time location data. Through this system, users were able to efficiently identify land use patterns, track changes over time, and make informed decisions related to urban planning, environmental management, and land resource allocation.",
-        techs:["React JS", "Tailwind CSS", "Express JS", "Openlayers", "Geoserver", "Postgresql"]
+        techs:["React JS", "Tailwind CSS", "Laravel", "Openlayers", "Geoserver", "Postgresql"]
     }, {
         year:"01/2024 - 06/2024",
         company:"InnovateGeo",
